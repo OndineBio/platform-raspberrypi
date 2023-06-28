@@ -47,7 +47,7 @@
       "type": "framework",
       "optional": true,
       "owner": "earlephilhower",
-      "version": "https://github.com/OndineBio/arduino-pico.git#8093644e9066bad1cbdc3cd749e6738d8feceeec"
+      "version": "https://github.com/OndineBio/arduino-pico.git#ab17f10f0dcd69a5115406156135855a6ea9e710"
     },
     "tool-rp2040tools": {
       "type": "uploader",
